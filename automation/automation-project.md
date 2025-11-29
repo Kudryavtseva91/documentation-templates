@@ -119,3 +119,4 @@
 ---
 <img width="1008" height="383" alt="Снимок экрана 2025-11-29 в 19 02 04" src="https://github.com/user-attachments/assets/ba350063-2439-435c-8eef-b0c03e5efd9d" />
 
+<img width="452" height="465" alt="Снимок экрана 2025-11-29 в 19 11 47" src="https://github.com/user-attachments/assets/8a7683e5-dbd2-46ed-af2b-aaa7dd53ae55" />
