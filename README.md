@@ -12,10 +12,10 @@
 ### [🎓 Рабочие кейсы](project-cases/case-description.md)
 - Реальные рабочие проекты
 
-### [📚 Release Notes](rrelease-notes/release)
+### [📚 Release Notes](release-notes/release.md)
 - Полное ведение Релиз нотсов в Confluence
 
-### [🛠 Автоматизация](automation/automation-project)
+### [🛠 Автоматизация](automation/automation-project.md)
 - Проекты по автоматизации
 
 ### [📒 База знаний](base/bz.md)
