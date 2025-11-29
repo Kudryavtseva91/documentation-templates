@@ -18,6 +18,9 @@
 ### [🛠 Автоматизация](automation)
 - Проекты по автоматизации
 
+### [🛠 Бфза знаний](base)
+- Проекты по автоматизации
+
 ## 📫 Контакты
 - 📧 Email: oksikko@mail.ru
 - 💬 Telegram: @Kseniya_Kudryavtseva
