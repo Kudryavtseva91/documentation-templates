@@ -71,12 +71,12 @@
 **Настройка ноды HTML:**
 1.  Выбрать "Extract HTML Content"! ✅.
 Настройка ноды "Extract HTML Content":
-      Data Property Name: data (то, что пришло из HTTP Request)
-      Source Data: JSON
+      Data Property Name: data (то, что пришло из HTTP Request).
+      Source Data: JSON.
       Extraction Values:
-      Key: price
-      SS Selector: [ваш селектор для цены]
-      Return Value: Text
+      Key: price.
+      SS Selector: [ваш селектор для цены].
+      Return Value: Text.
 
 
 #### Шаг 4: Отправка уведомления в Telegram
