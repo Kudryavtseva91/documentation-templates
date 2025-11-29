@@ -74,9 +74,9 @@
    * Data Property Name: data (то, что пришло из HTTP Request).
    * Source Data: JSON.
    * Extraction Values:
-   * Key: price.
-   * SS Selector: [ваш селектор для цены].
-   * Return Value: Text.
+     * Key: price.
+     * SS Selector: [ваш селектор для цены].
+     * Return Value: Text.
 
 
 #### Шаг 4: Отправка уведомления в Telegram
