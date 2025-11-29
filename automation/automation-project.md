@@ -70,7 +70,7 @@
 
 **Настройка ноды HTML:**
 1.  Выбрать "Extract HTML Content"! ✅.
-Настройка ноды "Extract HTML Content":
+* Настройка ноды "Extract HTML Content":
    * Data Property Name: data (то, что пришло из HTTP Request).
    * Source Data: JSON.
    * Extraction Values:
