@@ -12,7 +12,7 @@
 ### [📚 Release Notes](release-notes/release.md)
 - Полное ведение Релиз нотсов в Confluence
 
-### [🛠 Автоматизация](automation/automation-project.md)
+### [🛠 Автоматизация](https://github.com/Kudryavtseva91/documentation-templates/tree/main/automation)
 - Проекты по автоматизации
 
 ### [📒 База знаний](base/bz.md)
